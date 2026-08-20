@@ -1,0 +1,9 @@
+/build/
+
+# Legacy outputs from the pre-build-directory Makefile.
+/obj_*.o
+/myos.iso
+/iso_root/boot/myos.elf
+/iso_root/boot/limine-bios-cd.bin
+/iso_root/boot/limine-bios.sys
+/iso_root/boot/limine-uefi-cd.bin
